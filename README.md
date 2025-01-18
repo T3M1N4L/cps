@@ -1,5 +1,7 @@
 # Click/Spacebar Test - Next.js - Made for Highseas
 > This project was very fun to make, it really taught me about local storage, and about other various bugs I as a developer may come across, and how to fix them. A vote for this project would be highly appreciated.
+### IMPORANT READ THIS (Disclaimer)
+This was inspired by https://cpstest.org if you havent noticed already, I made this becuase I wanted to test my clicks per seoncd but I simply didn't like the UI of the other one. I have tried as much to stay similar to https://cpstest.org. This proejct is much more modular and open source unliek https://cpstest.org/ Please don't think of this as just another skidded project, this acutally took time to make, I persoanlly tried to add my own touches here and there like the light and dark mode and makign it a SPA (Single-Page-Webapp). 
 ## Features
 
 - **LocalStorage Score Saving**: 
